@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isaac Rooney Koros</h1>
 <h3 align="center">Aspiring Backend Developer | Tech Enthusiast Backend Dev Student | Building the Future One API at a Time Software Engineer in Training | Passionate About Clean Code Backend Developer | Learning by Building</h3>
 <br>
-- 🌱 I’m currently learning **Node.js, Express, MongoDB, Git, REST APIs**
+- 🌱 I’m currently learning **Node.js, Express, MongoDB, REST APIs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/isaacrooneykoros](https://github.com/isaacrooneykoros)
 
