@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isaac Rooney Koros</h1>
-<h3 align="center">Aspiring Backend Developer | Tech Enthusiast Backend Dev Student | Building the Future One API at a Time Software Engineer in Training | Passionate About Clean Code Backend Developer | Learning by Building</h3>
+<h3 align="center">Backend & Mobile App Developer | Building APIs and Scalable Apps | Passionate About Clean Code</h3>
 <br>
 - 🌱 I’m currently learning **Node.js, Express, MongoDB, REST APIs**
 
