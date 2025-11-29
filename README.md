@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Isaac Rooney Koros</h1>
 <h3 align="center">Backend & Mobile App Developer | Building APIs and Scalable Apps | Passionate About Clean Code</h3>
 <br>
-- 🌱 I’m currently learning **Node.js, Express, MongoDB, REST APIs**
-
 - 👨‍💻 All of my projects are available at [https://github.com/isaacrooneykoros](https://github.com/isaacrooneykoros)
 
-- 📝 I regularly write articles on [Coming Soon ...](Coming Soon ...)
+- 📝 I regularly write articles on (Coming Soon ...)
 
 - 💬 Ask me about **Kotlin, Backend development, Git, project planning**
 
