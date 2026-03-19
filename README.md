@@ -1,50 +1,72 @@
 <h1 align="center">Hi 👋, I'm Isaac Rooney Koros</h1>
-<h3 align="center">Backend & Mobile App Developer | Building APIs and Scalable Apps | Passionate About Clean Code</h3>
-<br>
-- 👨‍💻 All of my projects are available at [https://github.com/isaacrooneykoros](https://github.com/isaacrooneykoros)
+<h3 align="center">Backend Developer | Building Scalable APIs & Real-World Systems</h3>
 
-- 📝 I regularly write articles on (Coming Soon ...)
+---
 
-- 💬 Ask me about **Kotlin, Backend development, Git, project planning**
+## 🚀 About Me
 
-- 📫 How to reach me **isaacrooneykoros@outlook.com**
+- 💻 Backend-focused developer building real-world applications and APIs  
+- ⚙️ Strong in REST API design, backend workflows, and system architecture  
+- 📱 Also exploring mobile development with Kotlin  
+- 🌍 Passionate about digital transformation, especially in healthcare systems  
+- 📈 Continuously improving in backend scalability and clean architecture  
 
-- ⚡ Fun fact **I think I am funny 😄**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/isaac-rooney-koros-4b1511329/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/isaac-rooney-koros-4b1511329/" height="30" width="40" /></a>
-</p>
+## 🔥 What I Build
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  
-<a href="https://developer.android.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-  
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> 
+I focus on building backend systems that handle:
+- User workflows and system logic  
+- API design and data processing  
+- Authentication and multi-user systems  
+- Scalable backend structures  
+
+---
+
+## 🧠 Tech Stack
+
+- **Backend:** Django, Flask, Node.js  
+- **Languages:** Python, JavaScript, Kotlin  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Tools:** Git, GitHub, Postman  
+- **Other:** Authentication, system design, backend architecture  
+
+---
+
+## 🧩 How I Think as a Developer
+
+- I focus on **building systems, not just writing code**  
+- I prioritize **clean architecture and scalability**  
+- I approach problems with a **solution-first mindset**  
+- I continuously improve through **real-world project building**  
+
+---
+
+## ⚡ Current Focus
+
+- Backend system design and architecture  
+- API scalability and performance  
+- Building production-ready backend applications  
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: isaacrooneykoros@outlook.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/isaac-rooney-koros-4b1511329/  
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isaacrooneykoros&show_icons=true&locale=en&layout=compact" />
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isaacrooneykoros&show_icons=true&locale=en&layout=compact" alt="isaacrooneykoros" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=isaacrooneykoros&show_icons=true&locale=en" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaacrooneykoros&show_icons=true&locale=en" alt="isaacrooneykoros" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isaacrooneykoros&" alt="isaacrooneykoros" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isaacrooneykoros" />
+</p>
